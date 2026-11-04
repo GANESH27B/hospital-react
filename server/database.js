@@ -8,6 +8,7 @@ function getJsonFilePath() {
     const tmpPath = path.join('/tmp', 'appointments.json');
     if (!fs.existsSync(tmpPath)) {
       const candidates = [
+        path.join(__dirname, 'appointments.json'),
         path.join(process.cwd(), 'appointments.json'),
         path.join(__dirname, '..', 'appointments.json')
       ];
@@ -24,8 +25,10 @@ function getJsonFilePath() {
     }
     return tmpPath;
   }
-  const localDefault = path.join(__dirname, '..', 'appointments.json');
-  return fs.existsSync(localDefault) ? localDefault : path.join(process.cwd(), 'appointments.json');
+  const localDefault = path.join(__dirname, 'appointments.json');
+  if (fs.existsSync(localDefault)) return localDefault;
+  const parentDefault = path.join(__dirname, '..', 'appointments.json');
+  return fs.existsSync(parentDefault) ? parentDefault : path.join(process.cwd(), 'appointments.json');
 }
 
 let dbDriver = null;

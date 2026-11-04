@@ -8,9 +8,9 @@ require('dotenv').config({ path: path.join(__dirname, '.env') });
 
 function getDocumentsFolder() {
   const candidates = [
+    path.join(__dirname, 'documents'),
     path.join(process.cwd(), 'documents'),
-    path.join(__dirname, '..', 'documents'),
-    path.join(__dirname, 'documents')
+    path.join(__dirname, '..', 'documents')
   ];
   return candidates.find(dir => fs.existsSync(dir)) || candidates[0];
 }

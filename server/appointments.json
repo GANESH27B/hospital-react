@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "patient_name": "Ramesh Kumar",
+    "phone": "9876543210",
+    "department": "Cardiology",
+    "doctor": "Dr. Arun Kumar",
+    "appointment_date": "2026-11-10",
+    "appointment_time": "10:30",
+    "status": "Confirmed"
+  },
+  {
+    "id": 102,
+    "patient_name": "Sunita Sharma",
+    "phone": "9876543211",
+    "department": "Dermatology",
+    "doctor": "Dr. Priya Sharma",
+    "appointment_date": "2026-11-11",
+    "appointment_time": "14:30",
+    "status": "Confirmed"
+  },
+  {
+    "id": 103,
+    "patient_name": "Venkatesh Babu",
+    "phone": "9876543212",
+    "department": "Orthopedics",
+    "doctor": "Dr. Rahul Verma",
+    "appointment_date": "2026-11-12",
+    "appointment_time": "09:30",
+    "status": "Cancelled"
+  }
+]

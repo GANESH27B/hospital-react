@@ -1,0 +1,32 @@
+CAREPLUS MULTISPECIALITY HOSPITAL
+DOCTOR INFORMATION
+
+Cardiology:
+
+Dr. Arun Kumar
+Specialization: Cardiology
+Experience: 12 years
+
+Dermatology:
+
+Dr. Priya Sharma
+Specialization: Dermatology
+Experience: 8 years
+
+Orthopedics:
+
+Dr. Rahul Verma
+Specialization: Orthopedics
+Experience: 10 years
+
+Pediatrics:
+
+Dr. Anitha Rao
+Specialization: Pediatrics
+Experience: 9 years
+
+Neurology:
+
+Dr. Kiran Kumar
+Specialization: Neurology
+Experience: 11 years
