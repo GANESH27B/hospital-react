@@ -1,0 +1,23 @@
+CAREPLUS MULTISPECIALITY HOSPITAL
+APPOINTMENT INFORMATION
+
+Patients can request appointments using the Hospital FAQ and Appointment Helper.
+
+For an appointment request, the user provides:
+
+- Patient name
+- Phone number
+- Department
+- Doctor
+- Preferred date
+- Preferred time
+
+Patients should carry the following documents when visiting:
+
+- Government identification
+- Previous medical reports, if applicable
+- Previous prescriptions, if applicable
+
+Appointment requests are demonstration records for this academic project.
+
+The application does not provide medical diagnosis or personalized treatment advice.

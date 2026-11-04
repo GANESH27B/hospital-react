@@ -1,0 +1,29 @@
+{
+  "name": "careplus-hospital-react-node",
+  "version": "1.0.0",
+  "description": "CarePlus Hospital - Full-stack React and Node.js AI-Powered RAG Hospital Management Application",
+  "scripts": {
+    "server": "node server/index.js",
+    "server:dev": "node --watch server/index.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "sqlite",
+    "rag",
+    "gemini",
+    "hospital"
+  ],
+  "author": "",
+  "license": "ISC"
+}

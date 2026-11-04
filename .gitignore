@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+appointments.db
+.streamlit/secrets.toml
+node_modules/
+dist/
+client/dist/

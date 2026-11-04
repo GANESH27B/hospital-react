@@ -1,0 +1,32 @@
+CAREPLUS MULTISPECIALITY HOSPITAL
+
+CarePlus Multispeciality Hospital is a fictional hospital created for an academic RAG project.
+
+Location:
+Madanapalle, Andhra Pradesh, India
+
+Hospital Working Hours:
+The hospital is open 24 hours for emergency services.
+
+General OPD:
+Monday to Saturday
+8:00 AM to 8:00 PM
+
+Emergency Department:
+Available 24 hours.
+
+Hospital Services:
+- General Medicine
+- Cardiology
+- Dermatology
+- Orthopedics
+- Pediatrics
+- Neurology
+- ENT
+- Ophthalmology
+
+Appointment:
+Patients can request an appointment through the Hospital FAQ and Appointment Helper application.
+
+Important:
+This application provides general hospital and administrative information only. It does not provide medical diagnosis or personalized treatment advice.

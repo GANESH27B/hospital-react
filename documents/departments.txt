@@ -1,0 +1,26 @@
+CAREPLUS MULTISPECIALITY HOSPITAL
+DEPARTMENTS
+
+Cardiology:
+Deals with heart and cardiovascular-related medical care.
+
+Dermatology:
+Provides care related to skin, hair and nail conditions.
+
+Orthopedics:
+Provides services related to bones, joints and muscles.
+
+Pediatrics:
+Provides healthcare services for children.
+
+Neurology:
+Provides services related to the nervous system.
+
+ENT:
+Provides services related to ear, nose and throat.
+
+Ophthalmology:
+Provides eye-related healthcare services.
+
+General Medicine:
+Provides general medical consultation and primary healthcare services.

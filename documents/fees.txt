@@ -1,0 +1,19 @@
+CAREPLUS MULTISPECIALITY HOSPITAL
+FEE INFORMATION
+
+General Consultation:
+₹300
+
+Specialist Consultation:
+₹500
+
+Follow-up Consultation:
+₹250
+
+ECG:
+₹400
+
+Blood Test:
+₹300
+
+These fees are fictional values created for the academic project demonstration.
